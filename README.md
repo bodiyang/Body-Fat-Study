@@ -1,12 +1,7 @@
-# STAT-628-Module2-FA20
-
-## Group Members
-- Hua Tong @Tonghua35
-- Jiayi Xu @jxu273
-- Bodi Yang @bodiyang
+# Body Fat Study
 
 ## Introduction 
-This is our research to develop a method to help people estimate body fat percentage to help them assess health. We conducted statistical analysis over the data of a group of people’s body information and worked out a linear model to estimate the body fat percentage.
+This research is to develop a method to help people estimate body fat percentage to help them assess health. We conducted statistical analysis over the data of a group of people’s body information and worked out a linear model to estimate the body fat percentage.
 
 ## Project Detail
 This project includes the following:
