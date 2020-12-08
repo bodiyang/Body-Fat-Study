@@ -11,9 +11,7 @@ This project includes the following:
 - `app.R` in `Shiny` folder which is the code used to create the calculator app
 - `BodyFat.csv` in `Data` is the dataset that we analyzed
 
-# Instruction
-To reproduce the result, run `mod2.R` in RStudio. 
-Note that the result might be slightly different at the training steps because of the `set.seed()` function, as it may vary on different versions of R and different computers. 
+
 
 
 
