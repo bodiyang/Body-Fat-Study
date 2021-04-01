@@ -192,8 +192,3 @@ summary(model_1)
 model_2=lm(formula = BODYFAT ~ ABDOMEN, data = fat)
 summary(model_2)
 
-
-#Contribution:
-#Hua Tong: wrote main code for data modeling and revised the code.
-#Jiayi Xu: provided feedback, reviewed, revised, and updated the code
-#Bodi Yang: maintained and revised the code of data modeling
