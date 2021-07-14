@@ -79,7 +79,7 @@ ui <- fluidPage(
   helpText("https://www.medicalnewstoday.com/articles/body-fat-percentage-chart"),
   helpText("https://totalrowfitness.com/know-your-body-fat-total-row-explains-why-it-matters/"),
   tags$hr(),
-  helpText("Created by Jiayi Xu (jxu273@wisc.edu) and Hua Tong (htong24@wisc.edu)"),
+  helpText("byang89@wisc.edu"),
   helpText("Should you have any questions to our app, please contact us through email")
   
   
@@ -128,8 +128,4 @@ server <- function(input, output) {
 
   
 shinyApp(ui = ui, server = server)
-
-#Contribution:
-#Hua Tong: added algorithms to improve robustness, modified the notes.
-#Jiayi Xu: created and built the main frame of the app; added notes and finalized the app.
 
